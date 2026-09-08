@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="BasisProof mark">
+  <rect width="512" height="512" rx="128" fill="#07111f"/>
+  <rect x="54" y="54" width="404" height="404" rx="104" fill="#0f2438" stroke="#24445d" stroke-width="8"/>
+  <path d="M155 138h112c69 0 112 33 112 87 0 36-18 62-50 76 43 14 66 44 66 87 0 61-47 96-128 96H155V138zm98 130h14c29 0 43-11 43-32s-14-32-43-32h-14v64zm0 148h25c33 0 50-14 50-39 0-25-17-39-50-39h-25v78z" fill="#f4f7fb"/>
+  <path d="M313 273l36 36 80-98" fill="none" stroke="#20d7f0" stroke-width="29" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="374" cy="257" r="101" fill="none" stroke="#f2b94b" stroke-width="11" stroke-dasharray="11 25"/>
+</svg>
